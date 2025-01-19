@@ -337,6 +337,9 @@ Collect all Balatro mods and tools, welcome to add!
 - [Wilds Texture Pack](https://github.com/NataKilar/Balatro-Wilds) - Retextures all planet cards to astral bodies from the game Outer Wilds. by [@NataKilar](https://github.com/NataKilar)
 - [Trans Spectrals](https://discord.com/channels/1116389027176787968/1247528518842191971) - Spectral Cards (and spectral adjacent cards) but trans Spectrans. by `@RadicaAprils`
 - [Spectralsbian](https://discord.com/channels/1116389027176787968/1248729661815521381) - Spectral cards, but with the lesbian flag colours. by `@RadicaAprils`
+#### Require [DeckSkinsLite](https://github.com/Kekulism/DeckSkinsLite)
+- [Inscryption](https://gitlab.com/SmashStone/inscryption-balatrocards/-/tree/main?ref_type=heads) - Face cards for all suits from the game Inscryption. by [SmashStone](https://gitlab.com/SmashStone)
+- [ggstFaceCards](https://github.com/flwr-venus/ggstFaceCards) - Face cards skin texture featuring Guilty Gear: Strive characters. by [flwr-venus](https://github.com/flwr-venus)
 
 ### Translates
 - [Better French](https://github.com/FrBmt-BIGetNouf/balatro-french-translations) - A humble community-made version of the French localization of Balatro. by `The Balatro FR Loc Mod Community`
@@ -349,6 +352,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Utils
 - [Card Back Injection](https://github.com/Ken-Shi/Balatro_CardBackInjection) - systematically loads all the card back files into the system. by [@Kenny Stone](https://github.com/Ken-Shi)
 - [Distro](https://github.com/dvrp0/distro) - Adds Discord Rich Presence support. by [@DVRP](https://github.com/dvrp0)
+- [DeckSkinsLite](https://github.com/Kekulism/DeckSkinsLite) - Allows for users to make custom skins for their deck of cards with ease. - by [@Kekulism](https://github.com/Kekulism)
 
 ---
 
